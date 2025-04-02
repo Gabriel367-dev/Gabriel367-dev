@@ -1,5 +1,5 @@
 - 👋 Opa, eu sou o Gabriel
-- 👀 Eu estou interessado em ser rico...
+- 👀 Eu estou interessado em ser agricultor...
 
 <!---
 Gabriel367-dev/Gabriel367-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
